@@ -28,10 +28,10 @@
 	</files>
 
 	<languages>
-		<language tag="en-GB">en-GB.mod_yandexmap.ini</language>
-		<language tag="en-GB">en-GB.mod_yandexmap.sys.ini</language>
-		<language tag="ru-RU">ru-RU.mod_yandexmap.ini</language>
-		<language tag="ru-RU">ru-RU.mod_yandexmap.sys.ini</language>
+		<language tag="en-GB">lang/en-GB.mod_yandexmap.ini</language>
+		<language tag="en-GB">lang/en-GB.mod_yandexmap.sys.ini</language>
+		<language tag="ru-RU">lang/ru-RU.mod_yandexmap.ini</language>
+		<language tag="ru-RU">lang/ru-RU.mod_yandexmap.sys.ini</language>
 	</languages>
 
 	<config>
